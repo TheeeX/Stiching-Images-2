@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stiching-Images~2", "Stiching-Images~2\Stiching-Images~2.vcxproj", "{CDA1FCA4-AA6B-4186-AD86-913CC9F2ABCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA1FCA4-AA6B-4186-AD86-913CC9F2ABCA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CDA1FCA4-AA6B-4186-AD86-913CC9F2ABCA}.Debug|Win32.Build.0 = Debug|Win32
+		{CDA1FCA4-AA6B-4186-AD86-913CC9F2ABCA}.Release|Win32.ActiveCfg = Release|Win32
+		{CDA1FCA4-AA6B-4186-AD86-913CC9F2ABCA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
